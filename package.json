@@ -4,10 +4,21 @@
   "description": "A web app to help you pick a lunch spot near you.",
   "main": "index.js",
   "author": "Sam Galizia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgalizia/lunch-roulette"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "mongodb": "^3.1.1",
-    "mongoose": "^5.2.5"
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
   }
 }
