@@ -1,0 +1,13 @@
+{
+  "name": "lunch-roulette",
+  "version": "1.0.0",
+  "description": "A web app to help you pick a lunch spot near you.",
+  "main": "index.js",
+  "author": "Sam Galizia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.5"
+  }
+}

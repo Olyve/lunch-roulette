@@ -1,0 +1,6 @@
+# Node and Yarn
+node_modules/
+yarn-error.log
+
+# Environment Files
+.env
